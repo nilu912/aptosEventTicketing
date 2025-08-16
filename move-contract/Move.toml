@@ -1,0 +1,15 @@
+[package]
+name = "aptosProj"
+version = "1.0.0"
+authors = []
+
+[addresses]
+EventTicketing='0x11ea8cc30c48f450dc5b6deb3ef6094c059d002707be7097a9dac6b22b4a97d1'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
