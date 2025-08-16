@@ -34,4 +34,3 @@ With blockchain, users can directly purchase tickets with **guaranteed security 
 ## 📌 Contract Address  
 ```text
 0x7f5d296f054a0017a24254fdde32f042d7e718c5aff0fd4ef2e8eed9e270845d
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/e60afa56-dade-42ee-9fb3-7bad5f76c1ef" />
